@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emthalib
+- 👋 Hi, I’m Abdulmutalib
 - 👀 I’m interested in ...data analysis
 - 🌱 I’m currently learning ...git,data analysis with sql,spss,tableau and power Bi
 - 💞️ I’m looking to collaborate on any of aboved mentioned
